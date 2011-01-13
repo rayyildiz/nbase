@@ -1,11 +1,12 @@
 /*
  * nbase is a library for android application to develop base features
  * It includes data , network and tab view.
- * For more information http://kenai.com/projects/nbase
+ * For more information http://code.google.com/p/nbase/
  * 
  * 
- * nbase is deliver with MIT licence
+ * NBase is deliver with MIT licence
  */
+
 
 package org.nbase.view;
 
