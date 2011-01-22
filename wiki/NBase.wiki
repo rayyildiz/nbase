@@ -1,10 +1,4 @@
-#summary One-sentence summary of this page.
 
 = NBase =
 
 NBase is a project focus on some useful features for android application in order to develop a project.
-
-
-= What Features =
-# Abstract Data Object
-# Tab view
