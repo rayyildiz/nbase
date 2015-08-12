@@ -1,0 +1,1 @@
+NBase includes some useful features for Android Platform.
